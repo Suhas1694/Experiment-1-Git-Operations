@@ -1,2 +1,3 @@
 Git operations experiment
 Initial version: local project initialized.
+Updated version: modification committed on the file-operations branch.
