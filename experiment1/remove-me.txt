@@ -1,0 +1,1 @@
+Temporary tracked file for the delete operation demonstration.
